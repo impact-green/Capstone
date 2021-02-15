@@ -1,9 +1,5 @@
 # Capstone Project: Green Bonds
 
-## Design Files
-
-[Figma file](https://www.figma.com/file/bYmf0LYkPu8db0GXhpmUDT/Impact-Green?node-id=1177%3A216)
-
 ## Getting Started:
 
 > Impact Green made with [Material UI's](https://material-ui.com) components, [React](https://reactjs.org) and Django.
