@@ -13,6 +13,9 @@ Copyright (C) 2020, Capstone Team (Yueshan Lin, Yiran Pan, Chizobam Nwagwu, Tris
 
 > Read the full terms and conditions of the license [here](https://github.com/impact-green/Impact-Green-Capstone/blob/master/LICENSE.md)
 
+> Please contact impactgreen.mgmt@gmail.com if you have questions or other inquiries. 
+
+
 ## Getting Started:
 
 > Impact Green made with [Material UI's](https://material-ui.com) components, [React](https://reactjs.org) and Django.
