@@ -1,5 +1,18 @@
 # Capstone Project: Green Bonds
 
+## Copyright Notice
+
+> Impact-Green-Capstone repository is for the open-source data visualization platform, [Impact Green](https://impact-green.herokuapp.com/), for green bond municipal issuers to track the impact of their green bond infrastructure projects. 
+Copyright (C) 2020, Capstone Team (Yueshan Lin, Yiran Pan, Chizobam Nwagwu, Tristan Pang, Yiting Hui, and Xuanming Cao) and Summer PIL Fellows (Sharleen Devjani, Sanika Sahasrabuddhe, and Sarah Sherwood).  
+
+> This library is free software; you can redistribute it and/or modify it under the terms of the GNU Lesser General Public License as published by the Free Software Foundation; either version 2.1 of the License, or (at your option) any later version.
+
+> This library is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU Lesser General Public License for more details.
+
+> You should have received a copy of the GNU Lesser General Public License along with this library; if not, write to the Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301 USA
+
+> Read the full terms and conditions of the license [here](https://github.com/impact-green/Impact-Green-Capstone/blob/master/LICENSE.md)
+
 ## Getting Started:
 
 > Impact Green made with [Material UI's](https://material-ui.com) components, [React](https://reactjs.org) and Django.
